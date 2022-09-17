@@ -1,0 +1,13 @@
+export { default as Billing } from './Billings.jsx';
+export { default as Bussiness } from './Bussiness.jsx';
+export { default as Button } from './Button.jsx';
+export { default as CardDeal } from './CardDeal.jsx';
+export { default as Client } from './Client.jsx';
+export { default as CTA } from './CTA.jsx';
+export { default as FeedBackCard } from './FeedBackCard.jsx';
+export { default as GetStarted } from './GetStarted.jsx';
+export { default as Hero } from './Hero.jsx';
+export { default as NavBar } from './NavBar.jsx';
+export { default as Status } from './Status.jsx';
+export { default as Testimonial } from './Testimonial.jsx';
+export { default as Footer } from './Footer.jsx';
